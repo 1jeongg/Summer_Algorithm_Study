@@ -37,5 +37,5 @@ int main(void) {
 	get_input();
 	solve();
 	
-	return 0;
+	return 0; 
 }
