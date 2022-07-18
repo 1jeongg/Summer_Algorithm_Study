@@ -36,5 +36,4 @@ int main(void){
 	chatbot("");
 	answer();
 	return 0;
-
 }
