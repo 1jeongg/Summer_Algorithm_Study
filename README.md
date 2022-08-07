@@ -43,4 +43,5 @@
 | week_2 | 2명 | [1181](https://www.acmicpc.net/problem/1181), [2565](https://www.acmicpc.net/problem/2565), [5430](https://www.acmicpc.net/problem/5430), [1476](https://www.acmicpc.net/problem/1476), [1495](https://www.acmicpc.net/problem/1495), [2606](https://www.acmicpc.net/problem/2606) |
 | week_3 | 1명 | [11286](https://www.acmicpc.net/problem/11286), [1325](https://www.acmicpc.net/problem/1325),  [15686](https://www.acmicpc.net/problem/15686),  [2004](https://www.acmicpc.net/problem/2004), [1541](https://www.acmicpc.net/problem/1541) |
 | week_4 | x | [11052](https://www.acmicpc.net/problem/11052), [1931](https://www.acmicpc.net/problem/1931), [7569](https://www.acmicpc.net/problem/7569), [2002](https://www.acmicpc.net/problem/2002), [1935](https://www.acmicpc.net/problem/7569), [15649](https://www.acmicpc.net/problem/15649), [1697](https://www.acmicpc.net/problem/1697) |
-| week_4 | 스터디휴강 | |
+| week_5 | 스터디휴강 | |
+| week_6 |  | |
