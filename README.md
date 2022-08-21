@@ -46,3 +46,4 @@
 | week_5 | 스터디휴강 | |
 | week_6 | 1명 | [10986](https://www.acmicpc.net/problem/10986), [19583](https://www.acmicpc.net/problem/19583), [1967](https://www.acmicpc.net/problem/1967), [1976](https://www.acmicpc.net/problem/1976), [1991](https://www.acmicpc.net/problem/1991), [9663](https://www.acmicpc.net/problem/9663)|
 | week_7 | 1명 | [1593](https://www.acmicpc.net/problem/1593), [1753](https://www.acmicpc.net/problem/1753), [1992](https://www.acmicpc.net/problem/1992), [2751](https://www.acmicpc.net/problem/2751), [9095](https://www.acmicpc.net/problem/9095)|
+| week_8 | 2명 | |
