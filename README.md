@@ -9,7 +9,7 @@
 
 나머지는 자율입니다. 그 주마다 발표때 소개받은 문제들을 풀어보면 좋을 것 같습니다! <br>
 <b>발표와 깃허브 업로드</b>는 꼭 지켜주세요!
-
+<!--
 ## ✅ 깃허브 업로드 방법
 
 ![image](https://user-images.githubusercontent.com/92802207/176010356-51181d5f-4bd7-419b-85ce-b5ff09257426.png)
@@ -34,6 +34,7 @@
 ![image](https://user-images.githubusercontent.com/92802207/177471394-3226a35a-0ae9-4e81-b28e-297c940ff92f.png)
 내가 푼 문제들만 따로 모아서 보고 싶다면, 이름 폴더를 생성하셔서 안에 문제 파일을 업로드해주시면 됩니다!
 <br>자기이름 폴더 안에는 자유롭게 문제 파일을 업로드하셔도 좋습니다!
+-->
 
 ## 💪 진행도
 
@@ -46,4 +47,4 @@
 | week_5 | 스터디휴강 | |
 | week_6 | 1명 | [10986](https://www.acmicpc.net/problem/10986), [19583](https://www.acmicpc.net/problem/19583), [1967](https://www.acmicpc.net/problem/1967), [1976](https://www.acmicpc.net/problem/1976), [1991](https://www.acmicpc.net/problem/1991), [9663](https://www.acmicpc.net/problem/9663)|
 | week_7 | 1명 | [1593](https://www.acmicpc.net/problem/1593), [1753](https://www.acmicpc.net/problem/1753), [1992](https://www.acmicpc.net/problem/1992), [2751](https://www.acmicpc.net/problem/2751), [9095](https://www.acmicpc.net/problem/9095)|
-| week_8 | 2명 | |
+| week_8 | 2명 | [12865](https://www.acmicpc.net/problem/12865), [16508](https://www.acmicpc.net/problem/16508), [1918](https://www.acmicpc.net/problem/1918), [3117](https://www.acmicpc.net/problem/3117), [9252](https://www.acmicpc.net/problem/9252)|
